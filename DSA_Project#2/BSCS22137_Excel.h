@@ -1,6 +1,5 @@
 #pragma once
 #include"BSCS22137_Utility.h"
-
 class Excel
 {
 	int cellWidth, cellHeight;
